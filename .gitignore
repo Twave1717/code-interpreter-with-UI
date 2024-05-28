@@ -1,0 +1,11 @@
+*.log
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.log
+*.json
+history/history.json
+output/*
+*.env
+.env
