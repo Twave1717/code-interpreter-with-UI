@@ -1,6 +1,0 @@
-  1 OS: 'Windows', Language: 'python', Mode: 'code', Prompt: 'Input', Model: 'g
-Welcome to the Interpreter, I'm here to assist you with your everyday tasks.   
-Enter your task and I'll do my best to help you out.                           
-  1 OS: 'Windows', Language: 'python', Mode: 'code', Prompt: 'Input', Model: 'g
-Welcome to the Interpreter, I'm here to assist you with your everyday tasks.   
-Enter your task and I'll do my best to help you out.                           
